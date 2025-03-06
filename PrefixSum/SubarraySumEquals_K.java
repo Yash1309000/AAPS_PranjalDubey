@@ -1,5 +1,4 @@
 package PrefixSum;
-import java.util.HashMap;
 public class SubarraySumEquals_K {
         public int subarraySum(int[] nums, int k) {
             int n = nums.length;
